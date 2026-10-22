@@ -52,8 +52,7 @@ pip install -r requirements.txt
 
 ### Модель
 
-Базовая модель (`DeepPavlov/rubert-base-cased`,
-`deepvk/RuModernBERT-base` и т.д.) и тип головы читаются из `labels.json`,
+Базовая модель (`deepvk/RuModernBERT-base` и т.д.) и тип головы читаются из `labels.json`,
 Базовая модель скачивается с HuggingFace при первом запуске.
 
 ### Запуск API сервера
